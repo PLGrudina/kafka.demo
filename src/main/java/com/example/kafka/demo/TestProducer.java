@@ -32,4 +32,8 @@ public class TestProducer {
     public void printSomeInfo() {
         System.out.println("ololo");
     }
+
+    public void printSomeInfo4() {
+        System.out.println("testsdgsdgdrhthjrthjr");
+    }
 }
