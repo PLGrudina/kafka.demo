@@ -28,4 +28,8 @@ public class TestProducer {
 
         return new KafkaProducer<String, String>(properties);
     }
+
+    public void printSomeInfo() {
+        System.out.println("ololo");
+    }
 }
